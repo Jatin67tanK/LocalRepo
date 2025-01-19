@@ -1,0 +1,225 @@
+.group-11,
+.group-11 * {
+  box-sizing: border-box;
+}
+.group-11 {
+  position: relative;
+}
+.rectangle-13 {
+  background: #0b0a45;
+  width: 1440px;
+  height: 846px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.enter-your-email {
+  color: rgba(255, 255, 255, 0.62);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 924px;
+  top: 332px;
+  width: 225px;
+  height: 18px;
+}
+.seven-grams-caffe-independent-roasters-bakers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 188px;
+  top: 141px;
+  width: 270px;
+}
+.we-roast-great-coffee-we-bake-sensational-cookies-and-cakes-and-brownies-but-come-on-the-cookies-and-we-take-immense-pride-in-being-a-small-independent-business-no-investors-no-suits-no-big-corporates-just-a-dream-hard-work-and-a-deep-passion-for-what-we-do {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 188px;
+  top: 256px;
+  width: 265px;
+  height: 152px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 188px;
+  top: 622px;
+  width: 180px;
+  height: 33px;
+}
+.info-sevengramscaffe-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 188px;
+  top: 655px;
+  width: 270px;
+  height: 64px;
+}
+.rectangle-10 {
+  background: rgba(26, 34, 131, 0);
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #737ce3;
+  border-width: 1px;
+  width: 342px;
+  height: 62px;
+  position: absolute;
+  left: calc(50% - -188px);
+  top: calc(50% - 113px);
+}
+.frame-7 {
+  background: #1a2283;
+  border-radius: 13px;
+  padding: 29px 69px 29px 68px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 225px;
+  height: 51px;
+  position: absolute;
+  left: calc(50% - -188px);
+  top: 384px;
+}
+.connect-with-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+.quick-links {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  position: absolute;
+  left: 550px;
+  top: 144px;
+}
+.our-story {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 198px;
+}
+.locations {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 247px;
+  width: 91px;
+  height: 15px;
+}
+.gift-cards {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 293px;
+}
+.shipping-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 342px;
+}
+.refund-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 391px;
+}
+.terms-of-service {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 440px;
+}
+.personal-information {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 489px;
+}
+.stay-in-touch {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 26px;
+  line-height: 18px;
+  font-weight: 700;
+  position: absolute;
+  left: 910px;
+  top: 155px;
+  width: 225px;
+}
+.subscribe-to-receive-updates-access-to-exclusive-deals-and-mone {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 19px;
+  line-height: 31px;
+  font-weight: 400;
+  position: absolute;
+  left: 910px;
+  top: 196px;
+  width: 342px;
+  height: 97px;
+}
